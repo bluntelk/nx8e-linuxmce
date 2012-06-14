@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="include/Nx8eInterface.h" open="1" top="0" tabpos="2">
+		<Cursor position="1763" topLine="36" />
+	</File>
+	<File name="include/writelog.hpp" open="1" top="0" tabpos="5">
+		<Cursor position="39" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="9" topLine="0" />
+	</File>
+	<File name="src/Nx8eInterface.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="5822" topLine="227" />
+	</File>
+	<File name="src/writelog.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="19" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
